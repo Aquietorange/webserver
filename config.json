@@ -1,0 +1,14 @@
+{
+    "serves": [
+        {
+            "path": "C:\\Users\\hujun\\Downloads\\example",
+            "port": 777
+        },
+        {
+            "path": "F:\\vuex\\app_demo\\aquietorange.github.io",
+            "port": 80,
+            "alloworigin": true,
+            "log": true
+        }
+    ]
+}
